@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alice Alves\\OneDrive - SESISENAISP - Escolas\\\u00C1rea de Trabalho\\BackEndAtv\\atv13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3290A3-93F3-4606-A212-DEC1B4C59B9E}|atv13\\atv13.csproj|c:\\users\\alice alves\\onedrive - sesisenaisp - escolas\\\u00E1rea de trabalho\\backendatv\\atv13\\atv13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B3290A3-93F3-4606-A212-DEC1B4C59B9E}|atv13\\atv13.csproj|solutionrelative:atv13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alice Alves\\OneDrive - SESISENAISP - Escolas\\\u00C1rea de Trabalho\\BackEndAtv\\atv13\\atv13\\Program.cs",
+              "RelativeDocumentMoniker": "atv13\\Program.cs",
+              "ToolTip": "C:\\Users\\Alice Alves\\OneDrive - SESISENAISP - Escolas\\\u00C1rea de Trabalho\\BackEndAtv\\atv13\\atv13\\Program.cs",
+              "RelativeToolTip": "atv13\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:05:17.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

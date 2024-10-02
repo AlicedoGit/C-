@@ -1,0 +1,14 @@
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\bin\Debug\net8.0\atv5.exe
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\bin\Debug\net8.0\atv5.deps.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\bin\Debug\net8.0\atv5.runtimeconfig.json
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\bin\Debug\net8.0\atv5.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\bin\Debug\net8.0\atv5.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\atv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\atv5.AssemblyInfoInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\atv5.AssemblyInfo.cs
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\atv5.csproj.CoreCompileInputs.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\atv5.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\refint\atv5.dll
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\atv5.pdb
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\atv5.genruntimeconfig.cache
+C:\Users\Alice Alves\OneDrive - SESISENAISP - Escolas\Área de Trabalho\BackEndAtv\atv5\atv5\obj\Debug\net8.0\ref\atv5.dll

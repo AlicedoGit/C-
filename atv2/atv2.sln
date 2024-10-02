@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atv2", "atv2\atv2.csproj", "{7C8B4879-16DC-411D-8B9F-082257042764}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperadoresMatematicos", "..\..\BeckEnd\indroducaoC#\OperadoresMatematicos\OperadoresMatematicos\OperadoresMatematicos.csproj", "{1EA5A019-A199-420E-A4B0-5D9A2B5D3ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8B4879-16DC-411D-8B9F-082257042764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8B4879-16DC-411D-8B9F-082257042764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8B4879-16DC-411D-8B9F-082257042764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8B4879-16DC-411D-8B9F-082257042764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EA5A019-A199-420E-A4B0-5D9A2B5D3ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA5A019-A199-420E-A4B0-5D9A2B5D3ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA5A019-A199-420E-A4B0-5D9A2B5D3ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA5A019-A199-420E-A4B0-5D9A2B5D3ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B56AAADD-6A57-4169-BDC8-6D69C34A70EE}
+	EndGlobalSection
+EndGlobal
